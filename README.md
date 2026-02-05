@@ -1,2 +1,4 @@
-# qa-manual-portfolio
-Gestión del STLC, diseño de casos de prueba en Zephyr, reporte de defectos y pruebas de rendimiento con JMeter.
+## 🛠️ Stack Tecnológico
+* **Gestión de Pruebas:** Jira & Zephyr Scale (Gestión de STLC y ejecución).
+* **Pruebas de Rendimiento:** JMeter (Scripts de carga y estrés).
+* **Metodologías:** SDLC / STLC.
