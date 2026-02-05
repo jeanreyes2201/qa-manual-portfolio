@@ -3,7 +3,7 @@
 ## 1. Introducción
 Este plan define la estrategia de pruebas para la aplicación **JPetStore**. El objetivo es validar los flujos críticos de negocio, asegurando la calidad bajo el ciclo de vida **STLC**.
 
-## 2. Alcance (Scope)
+## 2. Alcance
 Se realizarán pruebas sobre los siguientes módulos:
 * **Módulo de Inventario:** Visualización de productos y categorías.
 * **Módulo de Carrito:** Adición, eliminación y actualización de productos.
@@ -21,8 +21,8 @@ Se realizarán pruebas sobre los siguientes módulos:
 
 ## 5. Entorno de Pruebas
 * **URL:** https://petstore.octoperf.com/
-* **Navegador:** Google Chrome (Última versión).
-* **Herramientas de soporte:** Chrome DevTools para análisis de consola y red.
+* **Navegador:** Brave (Última versión).
+
 
 ## 6. Criterios de Aceptación
 * El 100% de los casos de prueba críticos deben estar ejecutados.
