@@ -14,8 +14,7 @@ El objetivo de este proyecto es validar las funcionalidades básicas de una calc
 * Botón "Clear" para limpiar campos.
 
 ## 3. Estrategia de Pruebas
-* **Tipo de prueba:** Pruebas funcionales de caja negra (Black Box Testing).
-* **Niveles de prueba:** Pruebas de Sistema y Pruebas de Regresión.
+* **Tipo de prueba:** Pruebas basadas en riesgos, Pruebas funcionales de caja negra.
 * **Ambiente:** Navegador Brave/Edge en su última versión estable.
 
 ## 4. Casos de Prueba (Test Cases)
