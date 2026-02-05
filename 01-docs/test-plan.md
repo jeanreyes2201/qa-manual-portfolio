@@ -14,7 +14,7 @@ Se realizarán pruebas sobre los siguientes módulos:
 * **Pruebas Exploratorias:** Sesiones de 30 min para identificar errores no documentados.
 * **Pruebas de Rendimiento:** Pruebas de Carga y Estrés con **JMeter** para medir tiempos de respuesta en el catálogo.
 
-## 4. Herramientas (Stack)
+## 4. Herramientas 
 * **Gestión de Pruebas:** Jira + Zephyr Scale (Diseño y trazabilidad).
 * **Defectos:** Jira Software para el ciclo de vida del bug.
 * **Performance:** Apache JMeter.
