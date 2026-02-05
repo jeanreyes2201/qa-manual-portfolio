@@ -1,6 +1,6 @@
 # 📋 Plan de Pruebas: JPetStore Demo
 
-## 1. Introducción
+## 1. Introducción 
 Este plan define la estrategia de pruebas para la aplicación **JPetStore**. El objetivo es validar los flujos críticos de negocio, asegurando la calidad bajo el ciclo de vida **STLC**.
 
 ## 2. Alcance
