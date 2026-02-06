@@ -24,8 +24,7 @@ La calculadora permite ingresae valores alfanumericos.
 
 ## Evidencia
 
-![Captura del Error](<img width="1358" height="1742" alt="evidenciasevidencia-kan-t3" src="https://github.com/user-attachments/assets/4a0af910-97f2-4a3a-b925-07963a72a3fd" />
-)
+![Captura del Error](https://github.com/user-attachments/assets/891d56d9-214d-4b7c-9318-1622524ffdf9)
 
 
 ---
