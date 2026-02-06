@@ -4,7 +4,7 @@ El objetivo de este proyecto es validar las funcionalidades básicas de una calc
 * **URL de la aplicación:** [https://testsheepnz.github.io/BasicCalculator.html]
 * **Documentación de referencia:** Instrucciones visuales en la landing page.
 
-## 2. Alcance 
+## 2. Alcance  
 ### Funcionalidades a probar:
 * Operaciones aritméticas: Suma, Resta, Multiplicación y División.
 * Selector de builds (Prototype vs Builds 1-8).
