@@ -3,7 +3,7 @@
 **ID:** KAN-T3  
 **Estado:** Nuevo  
 
-### ¿Qué está pasando?
+### Titulo
 La calculadora permite escribir letras en los campos de números.
 
 ---
@@ -22,7 +22,10 @@ El sistema debe impedir la escritura de valores alfanumericos.
 ### Resultado obtenido
 La calculadora permite ingresar valores alfanumericos.
 
-## Evidencia
+### Ambiente 
+Navegador Brave/Build Prototype
+
+### Evidencia
 
 ![Captura del Error](https://github.com/user-attachments/assets/891d56d9-214d-4b7c-9318-1622524ffdf9)
 
