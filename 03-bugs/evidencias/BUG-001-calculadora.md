@@ -17,10 +17,10 @@ La calculadora permite escribir letras en los campos de números.
 ---
 
 ### Resultado esperado
-El sistema debe impedir la escritura de valoes alfanumericos.
+El sistema debe impedir la escritura de valores alfanumericos.
 
 ### Resultado obtenido
-La calculadora permite ingresae valores alfanumericos.
+La calculadora permite ingresar valores alfanumericos.
 
 ## Evidencia
 
