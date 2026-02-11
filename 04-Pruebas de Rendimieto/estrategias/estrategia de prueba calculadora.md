@@ -14,8 +14,8 @@ Para ejecutar estas pruebas, sigo este flujo de trabajo en la herramienta:
 4. **Listeners (Resultados):** Implementación de "View Results Tree" y "Summary Report" para analizar los datos.
 5. **Generación de Reporte Visual (Dashboard)
 Para obtener un análisis profesional, utilizo la línea de comandos de Windows (CMD) para ejecutar la prueba y generar un reporte automático en formato HTML.
-6. **Marcar en Rosado en el reprte de excel tomando en cuenta estos valores de referencia si.....
+6. **Marcar en Rosado en el reporte de excel tomando en cuenta estos valores de referencia si.....
 elapsed (ms)	es mayor a 1500
 Latency (ms)	es mayor a 1000
 Connect (ms)	es mayor a 500
-Resonse Code es diferente a 200 0 302 
+Response Code es diferente a 200 0 302 
