@@ -23,7 +23,7 @@ El sistema debe impedir la escritura de valores alfanumericos.
 La calculadora permite ingresar valores alfanumericos.
 
 ### Ambiente 
-Navegador Brave/Build Prototype
+Navegador Brave v.1.86.148/Build Prototype
 
 ### Evidencia
 
