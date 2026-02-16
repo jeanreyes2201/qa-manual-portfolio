@@ -11,7 +11,7 @@ El objetivo de este proyecto es validar las funcionalidades básicas de una calc
 * Validación de tipos de datos (solo números en operaciones matemáticas).
 
 ## 3. Estrategia de Pruebas
-* **Tipo de prueba:** Pruebas basadas en riesgos, Pruebas funcionales de caja negra.
+* **Tipo de prueba:** Pruebas funcionales de caja negra, Pruebas de rendimiento.
 * **Ambiente:** Navegador Brave.
 
 ## 4. Casos de Prueba (Test Cases).
