@@ -14,9 +14,10 @@ La aplicación demostró ser **altamente estable** para el volumen de usuarios p
 ---
 *Prueba ejecutada con Apache JMeter 5.6.3 utilizando Stepping Thread Group para carga progresiva.*
 
+<img width="1345" height="400" alt="prueba de stress calculadora" src="https://github.com/user-attachments/assets/ba8311c5-3284-4613-ad06-300745f17a65" />
 
 
-<img width="824" height="400" alt="prueba de stress calculadora" src="https://github.com/user-attachments/assets/336cd7fa-b0b6-4097-9cf0-2b4162362180" />
 
 
+<img width="1091" height="557" alt="grafico prueba de stress calculadora" src="https://github.com/user-attachments/assets/4693adbe-29e8-4411-9f2f-9ace7a72f08d" />
 
