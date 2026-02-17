@@ -1,4 +1,4 @@
-# Captura de reporte jmeter 
+# Captura de reporte jmeter prueba de carga
 
 ![reporte de prueda jmeter](https://github.com/user-attachments/assets/1136f534-6e23-4307-9f19-bf2ff424d59d)
 
