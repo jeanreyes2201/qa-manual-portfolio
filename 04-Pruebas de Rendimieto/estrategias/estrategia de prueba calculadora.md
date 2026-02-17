@@ -3,7 +3,7 @@
 En esta carpeta detallo la estrategia para evaluar la velocidad y estabilidad de la calculadora.
 
 ### Objetivo
-Identificar tiempos de respuesta y posibles cuellos de botella cuando hay múltiples usuarios concurrentes.
+Identificar tiempos de respuesta y posibles cuellos de botella cuando hay múltiples usuarios concurrentes mediante pruebas de carga y stress con Jmeter.
 
 ### Configuración
 Para ejecutar estas pruebas, sigo este flujo de trabajo en la herramienta:
