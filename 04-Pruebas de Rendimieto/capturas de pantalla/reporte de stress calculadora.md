@@ -1,13 +1,6 @@
 ## Resumen de la Prueba de Estrés 
 
-### Objetivo de la Prueba
-Evaluar la estabilidad y el tiempo de respuesta del servidor de la calculadora ante un aumento progresivo de carga, identificando el comportamiento del sistema bajo una concurrencia de **100 usuarios**.
-
-### Resultados Clave
-* **Carga Soportada:** 100 usuarios concurrentes.
-* **Tasa de Error (Error Rate):** 0.00%.
-* **Tiempo de Respuesta Promedio:** 230 ms.
-* **Percentil 95 (95th %):** 280 ms.
+Se a evaludado la estabilidad y el tiempo de respuesta del servidor de la calculadora ante un aumento progresivo de carga, identificando el comportamiento del sistema bajo una concurrencia de **100 usuarios**.
 
 
 ### Validaciones (Assertions)
