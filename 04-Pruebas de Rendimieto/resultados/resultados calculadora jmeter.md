@@ -1,4 +1,4 @@
-# Reporte de ejecucion jmeter 
+# Reporte de ejecucion prueba de carga jmeter (CSV)
 
 ** hacer click en preview y luego en el enlace para descargar y visualizar el reporte 
 
