@@ -1,5 +1,4 @@
-# BUG: Falta de validación en campos vacíos (Asunción de valor cero)
-
+# BUG: Falta de validación en campos vacíos 
 **ID:** `KAN-BUG-02`  
 **Estado:** `Nuevo`  
 **Prioridad:** `Media`  
