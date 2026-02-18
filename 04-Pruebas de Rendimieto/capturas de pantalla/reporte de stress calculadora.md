@@ -18,6 +18,6 @@ La aplicación demostró ser **altamente estable** para el volumen de usuarios p
 
 
 
-
+## Grafico de pruebas
 <img width="1091" height="557" alt="grafico prueba de stress calculadora" src="https://github.com/user-attachments/assets/4693adbe-29e8-4411-9f2f-9ace7a72f08d" />
 
