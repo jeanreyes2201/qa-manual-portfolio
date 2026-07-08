@@ -1,10 +1,10 @@
 # Plan de Pruebas Calculadora de Parqueo
 
-Estrategia simplificada para validar el motor de cálculo y las reglas de negocio de la calculadora de costos.
+Estrategia para validar el motor de cálculo y las reglas de negocio de la calculadora de costos.
 
 ---
 
-## 1. Alcance (Scope)
+## 1. Alcance 
 * **Dentro de alcance:** Lógica de cálculo de los 5 lotes, formatos de fecha (`MM/DD/YYYY`) y selectores AM/PM.
 * **Fuera de alcance:** Pruebas de rendimiento y pasarelas de pago.
 
@@ -16,7 +16,7 @@ Estrategia simplificada para validar el motor de cálculo y las reglas de negoci
 
 ---
 
-## 3. Caso de Prueba Destacado: `TC-04` (Short-Term Parking)
+## 3. Caso de Prueba Destacado: `TC-01` (Short-Term Parking)
 
 * **Objetivo:** Validar el cobro de la primera hora más una fracción de 30 minutos adicionales.
 * **Precondición:** Tarifa Short-Term activa ($2.00 primera hora, $1.00 por cada 1/2 hora adicional).
@@ -31,12 +31,7 @@ Estrategia simplificada para validar el motor de cálculo y las reglas de negoci
 
 ---
 
-## 4. Evidencia de Ejecución
 
-![Evidencia TC-04](https://raw.githubusercontent.com/jeanreyes2201/qa-manual-portfolio/main/02-test-cases/casos-calculadora/TC-02%20modulo%20Short-Term%20Parking.png)
-
----
-
-## 5. Criterio de Salida
+## 4. Criterio de Salida
 * 100% de los flujos principales en estado `PASSED`.
 * Cero (0) defectos abiertos de criticidad Alta o Bloqueante.
