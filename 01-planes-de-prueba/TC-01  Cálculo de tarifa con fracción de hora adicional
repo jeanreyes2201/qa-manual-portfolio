@@ -1,0 +1,42 @@
+# Plan de Pruebas Corto: Calculadora de Parqueo
+
+Estrategia simplificada para validar el motor de cálculo y las reglas de negocio de la calculadora de costos.
+
+---
+
+## 1. Alcance (Scope)
+* **Dentro de alcance:** Lógica de cálculo de los 5 lotes, formatos de fecha (`MM/DD/YYYY`) y selectores AM/PM.
+* **Fuera de alcance:** Pruebas de rendimiento y pasarelas de pago.
+
+---
+
+## 2. Estrategia & Técnicas
+* **Enfoque:** Caja Negra (Funcional y UI).
+* **Técnicas:** Partición de Equivalencia (EP) y Análisis de Valores Límite (BVA) para optimizar combinaciones de tiempo.
+
+---
+
+## 3. Caso de Prueba Destacado: `TC-04` (Short-Term Parking)
+
+* **Objetivo:** Validar el cobro de la primera hora más una fracción de 30 minutos adicionales.
+* **Precondición:** Tarifa Short-Term activa ($2.00 primera hora, $1.00 por cada 1/2 hora adicional).
+
+### Pasos:
+1. Seleccionar lote: `Short-Term (hourly) Parking`.
+2. Entrada: `08/08/2026` a las `09:00 AM`.
+3. Salida: `08/08/2026` a las `10:30 AM` (Total: 1h 30m).
+4. Presionar **"Calculate"**.
+
+* **Resultado Esperado:** Costo estimado de **$3.00** y desglose `(0 Days, 1 Hours, 30 Minutes)`.
+
+---
+
+## 4. Evidencia de Ejecución
+
+![Evidencia TC-04](https://raw.githubusercontent.com/jeanreyes2201/qa-manual-portfolio/main/02-test-cases/casos-calculadora/TC-02%20modulo%20Short-Term%20Parking.png)
+
+---
+
+## 5. Criterio de Salida
+* 100% de los flujos principales en estado `PASSED`.
+* Cero (0) defectos abiertos de criticidad Alta o Bloqueante.
